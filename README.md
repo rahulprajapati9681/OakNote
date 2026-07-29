@@ -8,6 +8,14 @@ The app is designed to be simple, fast, and reliable, with all data stored local
 
 ---
 
+## Links
+
+- Privacy Policy  https://diaglelabs.github.io/oaknote-site/about_app/
+- About OakNote   https://diaglelabs.github.io/oaknote-site/privacy_policy/
+- Google Play (Coming Soon/Public Release)
+
+---
+
 ## Features
 
 - Timetable and schedule management
