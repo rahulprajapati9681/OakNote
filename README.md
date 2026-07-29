@@ -37,13 +37,18 @@ The app is designed to be simple, fast, and reliable, with all data stored local
 
 
 ### Today
-<!-- Add screenshot -->
+<img width="1024" height="1822" alt="Today" src="https://github.com/user-attachments/assets/f2f4053a-6376-45a2-ac30-45bf943b4933" />
 
-### Analytics
-<!-- Add screenshot -->
+### Your Schedules at one place
+<img width="1024" height="1822" alt="Weekly_schedule" src="https://github.com/user-attachments/assets/cd4e7c06-5ed7-4de4-835e-41a2477b5469" />
+<img width="1024" height="1822" alt="Edit_schedule" src="https://github.com/user-attachments/assets/44883f46-3cbd-4b2a-aae2-8fc97d7b2ede" />
 
-### Settings
-<!-- Add screenshot -->
+### Notification
+<img width="1024" height="1822" alt="notifications" src="https://github.com/user-attachments/assets/6ba41900-1e06-46e9-ab67-a657170fc685" />
+
+### History
+<img width="1024" height="1822" alt="History" src="https://github.com/user-attachments/assets/79356615-8dec-4716-be9b-16c2777cd7f6" />
+
 
 
 ## Future Plans
@@ -63,8 +68,3 @@ OakNote started as a personal project to solve the problem of managing attendanc
 
 The project is actively being improved based on feedback from early testers.
 
----
-
-## License
-
-This project is licensed under the MIT License.
