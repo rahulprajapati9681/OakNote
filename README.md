@@ -33,23 +33,35 @@ The app is designed to be simple, fast, and reliable, with all data stored local
 ## Screenshots
 
 ### Home
-<img width="1024" height="1822" alt="Home" src="https://github.com/user-attachments/assets/aad92ff3-d5bc-41f8-bd39-05940d66835e" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aad92ff3-d5bc-41f8-bd39-05940d66835e" width="260" alt="Home">
+</p>
 
 ### Today
-<img width="1024" height="1822" alt="Today" src="https://github.com/user-attachments/assets/f2f4053a-6376-45a2-ac30-45bf943b4933" />
 
-### Your Schedules at one place
-<img width="1024" height="1822" alt="Weekly_schedule" src="https://github.com/user-attachments/assets/cd4e7c06-5ed7-4de4-835e-41a2477b5469" />
-<img width="1024" height="1822" alt="Edit_schedule" src="https://github.com/user-attachments/assets/44883f46-3cbd-4b2a-aae2-8fc97d7b2ede" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f2f4053a-6376-45a2-ac30-45bf943b4933" width="260" alt="Today">
+</p>
 
-### Notification
-<img width="1024" height="1822" alt="notifications" src="https://github.com/user-attachments/assets/6ba41900-1e06-46e9-ab67-a657170fc685" />
+### Weekly Schedule
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cd4e7c06-5ed7-4de4-835e-41a2477b5469" width="260" alt="Weekly Schedule">
+  <img src="https://github.com/user-attachments/assets/44883f46-3cbd-4b2a-aae2-8fc97d7b2ede" width="260" alt="Edit Schedule">
+</p>
+
+### Notifications
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ba41900-1e06-46e9-ab67-a657170fc685" width="260" alt="Notifications">
+</p>
 
 ### History
-<img width="1024" height="1822" alt="History" src="https://github.com/user-attachments/assets/79356615-8dec-4716-be9b-16c2777cd7f6" />
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79356615-8dec-4716-be9b-16c2777cd7f6" width="260" alt="History">
+</p>
 
 ## Future Plans
 
